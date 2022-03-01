@@ -18,6 +18,8 @@
 <body>
   <div>
     test git 
+
+    this text is for new branch and is not visable in master branch 
   </div>
 </body>
 
